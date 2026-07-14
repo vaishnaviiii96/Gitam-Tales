@@ -1,5 +1,7 @@
 # Gitam Tales
 
+Note: This repository contains a standalone clone/replica of the platform developed during my internship. To comply with institutional privacy policies, the original name, theme, and branding have been modified, and sensitive production data has been omitted.
+
 A vibrant full-stack application developed to showcase and manage engaging stories and frontend experiences. It features a responsive UI built with vanilla web technologies and a robust backend powered by Node.js, Express, and PostgreSQL.
 
 ## Tech Stack
